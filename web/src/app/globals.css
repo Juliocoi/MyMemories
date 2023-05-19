@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  -webki-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
